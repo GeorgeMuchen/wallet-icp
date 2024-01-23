@@ -1,30 +1,30 @@
 ﻿Open a terminal:
 
 
-Step1.
+Step1,
 --> dfx new deeper
 
-Step2.
+Step2,
 open the project with an IDE (recom VScode)
 delete main.css, index.html, index.js
 
-Step3.
+Step3,
 react projesindeki .css, .html, .js dosyalarını dfx'de sildiklerinin
 yerine at
 
-Step4.
+Step4,
 index.js --> index.jsx
 
-Step5.
+Step5,
 webpack.config.js -> line 51 .js to .jsx
 
 line 78-83 module free
 
-Step6.
+Step6,
 tsconfig.json added
 
-step7. 
+step7,
 package.json komple değişti.
 
-step8.
+step8,
 sorunlar düzeltildi.
