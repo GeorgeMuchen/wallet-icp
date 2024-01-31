@@ -1,2 +1,2 @@
-﻿wallet finance application:
+﻿wallet application:
 Motoko <3
