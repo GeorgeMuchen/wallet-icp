@@ -24,7 +24,7 @@ Step6,
 tsconfig.json added
 
 step7,
-package.json komple değişti.
+package.json değişti.
 
 step8,
 sorunlar düzeltildi.
