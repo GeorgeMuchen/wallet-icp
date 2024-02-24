@@ -3,7 +3,7 @@
 ------------------Installation and Setup for Macs--------------------------
 For Internet Computer Web3 Application Development
 
-Steps
+Step
 
 Node
 1. Go to the Node website and download the Long Term Support version of node (left side button should say something like 16.x.x LTS:
