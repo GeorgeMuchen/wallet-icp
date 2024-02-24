@@ -2,7 +2,7 @@ Yarattıklarımızı canlı internete dağıtma vakti geldi!
 Bunun için tokenlere ihtiyacımız var 
 Tokenleri almanın 3-4 farklı yolu olsada Dfinite, github hesabı 90 gün ve üzeri 
 süre önce açılmış kişilere ücretsiz olarak $20 değerinde crypto token vermektedir
-(çünkü biz onların minik developerları :)
+(çünkü biz onların minik developerlar :)
 
 ancak deploy ederken çok dikkatli olmalıyız Cycle'larımızı hızlıca bitirirsek
 cebimizde para kalmaz ve web3.0'da parasız hiç bir şey yapılmaz :(
