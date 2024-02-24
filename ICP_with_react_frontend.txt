@@ -13,7 +13,7 @@ react projesindeki .css, .html, .js dosyalarını dfx'de sildiklerinin
 yerine at
 
 Step4,
-index.js --> index.jsx
+index.js --> index
 
 Step5,
 webpack.config.js -> line 51 .js to .jsx
