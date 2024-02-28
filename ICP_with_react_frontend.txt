@@ -18,8 +18,6 @@ index.js --> index
 Step5,
 webpack.config.js -> line 51 .js to .jsx
 
-line 78-83 module free
-
 Step6,
 tsconfig.json added
 
