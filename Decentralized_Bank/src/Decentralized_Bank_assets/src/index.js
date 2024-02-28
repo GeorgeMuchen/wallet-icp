@@ -16,7 +16,7 @@ document.querySelector("form").addEventListener("submit", async function(event) 
 
   button.setAttribute("disabled", true);
 
-  if (document.getElementById("input-amount").value.length != 0) {
+  if (document.getElementById("input=amount").value.length != 0) {
     await Decentralized_Bank.topUp(inputAmount);
   }
 
