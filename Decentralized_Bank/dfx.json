@@ -21,7 +21,7 @@
   "defaults": {
     "build": {
       "args": "",
-      "packtool": "1"
+      "packtool": "2"
     }
   },
   "dfx": "0.9.3",
