@@ -14,7 +14,6 @@ const User = Record({
     username: text,
     id : Principal,
     createdAt: nat64,
-    Todos: Vec(Principal)
 })
 const todoPayload = Record({
     Heading: text,
