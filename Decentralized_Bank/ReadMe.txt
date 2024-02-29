@@ -1,2 +1,2 @@
-﻿wallet application:
+﻿wallet application
 Motoko <3
