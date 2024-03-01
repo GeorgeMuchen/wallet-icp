@@ -16,7 +16,7 @@ Step4,
 index.js --> index
 
 Step5,
-webpack.config.js -> line 52 .js to .jsx
+webpack.config.js -> line 51 .js to .jsx
 
 Step6,
 tsconfig.json added
