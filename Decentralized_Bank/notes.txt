@@ -9,7 +9,7 @@
 //4. Enter the ID to local host.
 //5. cong.! here your public funcs.
 
-//--> CALL and see the terminal
+//-> CALL and see the terminal
 
 //Query Update Methods (Query is faster than update methods! search it)
 
