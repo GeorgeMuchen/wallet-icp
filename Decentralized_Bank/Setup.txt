@@ -1,6 +1,6 @@
 ﻿
 
-------------------Installation and Setup for Macs--------------------------
+------------------Installation and Setup for Macs-------------------------
 For Internet Computer Web3 Application Development
 
 Step
