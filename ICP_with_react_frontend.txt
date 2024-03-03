@@ -23,6 +23,3 @@ tsconfig.json added
 
 step7,
 package.json değişti.
-
-step8,
-sorunlar düzeltildi.
