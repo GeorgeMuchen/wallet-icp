@@ -35,7 +35,7 @@ Test Everything Worked by Creating and Deploying your First DApp
 Create the Default Hello DApp
 1. Create a folder called ic-projects on your computer.
 2. Open up the Terminal and navigate into the ic-projects folder.
-3. Now run the following command in the terminal:
+3. Now run the following command in the terminal.
 
 dfx new hello
 
