@@ -22,4 +22,4 @@ Step6,
 tsconfig.json added
 
 step7,
-package.json değiştirildi.
+package.json değiştiril.
